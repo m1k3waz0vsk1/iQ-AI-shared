@@ -18,6 +18,7 @@
   - `nesting/` вхід Sparrow, `output/` його відповідь, `layout_<група>/` листи DXF/SVG і звіт
 - `aliases.json` підтверджені зіставлення «назва із заявки → папка КД»
 - `profiles.json` параметри нестингу; `queue/` черга служби; `service/` служба launchd (install.sh / uninstall.sh)
+- `assets/Impact.ttf` шрифт для наклейок; у репозиторії його немає (ліцензія Microsoft). Скопіюйте `C:\Windows\Fonts\impact.ttf` сюди вручну.
 - `skill/SKILL.md`, `skill/kd-nesting.SKILL.md` копія тексту скіла для довідки (діючий скіл зберігається в Claude)
 
 ## Запуск нестингу

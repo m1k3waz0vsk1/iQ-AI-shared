@@ -6,3 +6,7 @@ desktop.ini
 ~$*
 .venv/
 .claude/settings.local.json
+
+# Шрифт Impact (Microsoft) не можна поширювати публічно.
+# Скопіюйте C:\Windows\Fonts\impact.ttf у release/assets/Impact.ttf локально.
+release/assets/Impact.ttf
